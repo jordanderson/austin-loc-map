@@ -1,0 +1,10 @@
+shp/land/*
+shp/shoreline_300/*
+shp/processed_p/*
+shp/ne_places/*
+shp/austin_loc/*
+layers/land/*
+layers/shoreline_300/*
+layers/ne_places/*
+layers/processed_p/*
+.DS_Store
